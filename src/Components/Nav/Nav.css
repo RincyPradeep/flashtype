@@ -1,0 +1,31 @@
+.nav-container{
+    height:72px;
+    display: flex;
+    align-items: center;
+    background: #1d2020;
+    box-shadow:0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.26);
+    justify-content: space-between;
+    z-index:99;
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+}
+.nav-link{
+    color:#e7e6e7;
+    font-size: 20px;
+    margin-right:40px;
+    text-decoration: none;
+    font-weight: 800;
+}
+.flah-logo{
+    width:50px;
+    margin-left:20px;
+}
+.flash-logo-text{
+    font-family: Bangers;
+    font-size: 50px;
+    color:#e7e6e7;
+    letter-spacing: 1px;
+    margin:0 10px;
+}

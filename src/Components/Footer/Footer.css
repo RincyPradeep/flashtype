@@ -1,0 +1,8 @@
+.footer-container{
+    padding: 5px 0;
+    background: #1d2020;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+    z-index:99;
+}
