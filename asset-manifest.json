@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/RincyPradeep/flashtype/static/css/main.bdd94098.chunk.css",
-    "main.js": "/RincyPradeep/flashtype/static/js/main.92557a5c.chunk.js",
-    "main.js.map": "/RincyPradeep/flashtype/static/js/main.92557a5c.chunk.js.map",
-    "runtime-main.js": "/RincyPradeep/flashtype/static/js/runtime-main.28464040.js",
-    "runtime-main.js.map": "/RincyPradeep/flashtype/static/js/runtime-main.28464040.js.map",
-    "static/js/2.6f477ac7.chunk.js": "/RincyPradeep/flashtype/static/js/2.6f477ac7.chunk.js",
-    "static/js/2.6f477ac7.chunk.js.map": "/RincyPradeep/flashtype/static/js/2.6f477ac7.chunk.js.map",
-    "static/js/3.cdcb6d17.chunk.js": "/RincyPradeep/flashtype/static/js/3.cdcb6d17.chunk.js",
-    "static/js/3.cdcb6d17.chunk.js.map": "/RincyPradeep/flashtype/static/js/3.cdcb6d17.chunk.js.map",
-    "index.html": "/RincyPradeep/flashtype/index.html",
-    "static/css/main.bdd94098.chunk.css.map": "/RincyPradeep/flashtype/static/css/main.bdd94098.chunk.css.map",
-    "static/js/2.6f477ac7.chunk.js.LICENSE.txt": "/RincyPradeep/flashtype/static/js/2.6f477ac7.chunk.js.LICENSE.txt",
-    "static/media/hero.244e624f.png": "/RincyPradeep/flashtype/static/media/hero.244e624f.png",
-    "static/media/lightning.b6389aee.png": "/RincyPradeep/flashtype/static/media/lightning.b6389aee.png"
+    "main.css": "/flashtype/static/css/main.bdd94098.chunk.css",
+    "main.js": "/flashtype/static/js/main.70d9831a.chunk.js",
+    "main.js.map": "/flashtype/static/js/main.70d9831a.chunk.js.map",
+    "runtime-main.js": "/flashtype/static/js/runtime-main.887f247b.js",
+    "runtime-main.js.map": "/flashtype/static/js/runtime-main.887f247b.js.map",
+    "static/js/2.2426c374.chunk.js": "/flashtype/static/js/2.2426c374.chunk.js",
+    "static/js/2.2426c374.chunk.js.map": "/flashtype/static/js/2.2426c374.chunk.js.map",
+    "static/js/3.adb9ccc0.chunk.js": "/flashtype/static/js/3.adb9ccc0.chunk.js",
+    "static/js/3.adb9ccc0.chunk.js.map": "/flashtype/static/js/3.adb9ccc0.chunk.js.map",
+    "index.html": "/flashtype/index.html",
+    "static/css/main.bdd94098.chunk.css.map": "/flashtype/static/css/main.bdd94098.chunk.css.map",
+    "static/js/2.2426c374.chunk.js.LICENSE.txt": "/flashtype/static/js/2.2426c374.chunk.js.LICENSE.txt",
+    "static/media/hero.244e624f.png": "/flashtype/static/media/hero.244e624f.png",
+    "static/media/lightning.b6389aee.png": "/flashtype/static/media/lightning.b6389aee.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.28464040.js",
-    "static/js/2.6f477ac7.chunk.js",
+    "static/js/runtime-main.887f247b.js",
+    "static/js/2.2426c374.chunk.js",
     "static/css/main.bdd94098.chunk.css",
-    "static/js/main.92557a5c.chunk.js"
+    "static/js/main.70d9831a.chunk.js"
   ]
 }
